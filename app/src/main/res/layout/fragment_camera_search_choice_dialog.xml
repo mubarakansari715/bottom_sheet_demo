@@ -25,6 +25,7 @@
                 android:textStyle="bold"
                 tools:text="Bottom Sheet" />
 
+
             <androidx.appcompat.widget.AppCompatTextView
                 android:id="@+id/txt_text"
                 android:layout_width="match_parent"
